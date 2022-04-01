@@ -1,0 +1,5 @@
+{
+  "mongodb": {
+    "uri": "mongodb+srv://admin:test123@cluster0.rj3s9.mongodb.net/shoutouts_db?retryWrites=true&w=majority"
+  }
+}
